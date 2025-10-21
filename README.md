@@ -36,6 +36,7 @@ Here’s a breakdown of the **typical osTicket lifecycle stages**:
 ---
 
 ### **1. Ticket Creation**
+<img width="2496" height="1664" alt="image" src="https://github.com/user-attachments/assets/bd3f1433-7799-4556-94ef-89e9c6c62447" />
 
 **Description:**
 A new ticket is created when a user submits a support request.
@@ -61,6 +62,7 @@ A new ticket is created when a user submits a support request.
 
 ### **2. Ticket Assignment**
 
+
 **Description:**
 The ticket is assigned to a specific **agent** or **team** for handling.
 
@@ -76,6 +78,7 @@ The ticket is assigned to a specific **agent** or **team** for handling.
 ---
 
 ### **3. Ticket Response and Communication**
+<img width="2496" height="1664" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/d1debce0-c099-4930-94e7-16a19407ed6c" />
 
 **Description:**
 The assigned agent communicates with the user to resolve the issue.
@@ -109,6 +112,7 @@ The agent provides a solution, and the issue is considered resolved.
 ---
 
 ### **5. Ticket Closure**
+<img width="2496" height="1664" alt="image" src="https://github.com/user-attachments/assets/71955d36-55b1-40da-a6cb-57a10980baad" />
 
 **Description:**
 The ticket is formally closed, meaning the issue is completed or no longer active.
